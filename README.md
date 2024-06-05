@@ -1,1 +1,1 @@
-This mini Project is regarding geration of different kinds of images by integrating Chat GPT API. This can be used to generate different kinds of images through text input format or it can be used to edit or create variaions in pre existing images. 
+This mini Project is regarding geration of different kinds of images by integrating Chat GPT API. This can be used to generate different kinds of images through text prompt and it can be used to edit or create variaions in pre existing images. 
